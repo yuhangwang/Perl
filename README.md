@@ -31,7 +31,7 @@ make install
 ### Quality verification
 Results:
 - **All tests successful**
-- **Elapsed: 867 sec**
+- **Time cost: 867 sec**
 - **u=8.56  s=2.76  cu=408.09  cs=47.06  scripts=2223  tests=708759**
 
 See the "QualityVerification.txt" for the output of "make check".
